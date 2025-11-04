@@ -318,8 +318,6 @@ http://192.168.2.1:6777/udp/239.11.0.195:1025
 http://192.168.2.1:6777/udp/239.11.0.192:1025
 #EXTINF:-1 tvg-name="北京卫视" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226719/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",北京卫视4K 50p
 http://192.168.2.1:6777/udp/239.10.0.42:1025
-#EXTINF:-1 tvg-name="北京卫视" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226719/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",北京卫视4K 50p 5.1声道
-http://192.168.2.1:6777/udp/239.10.0.86:1025
 #EXTINF:-1 tvg-name="北京卫视" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226719/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",北京卫视4K 25p
 http://192.168.2.1:6777/udp/239.11.0.191:1025
 #EXTINF:-1 tvg-name="湖南卫视" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226698/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",湖南卫视4K 50p
