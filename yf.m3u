@@ -38,8 +38,6 @@ http://192.168.2.1:6777/udp/239.10.0.212:1025
 http://192.168.2.1:6777/udp/239.11.0.25:1025
 #EXTINF:-1 tvg-name="CCTV16" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226825/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-16奥林匹克
 http://192.168.2.1:6777/udp/239.11.0.126:1025
-#EXTINF:-1 tvg-name="CCTV16" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226825/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-16奥林匹克-4K
-http://192.168.2.1:6777/udp/239.11.0.132:1025
 #EXTINF:-1 tvg-name="CCTV17" catchup="default" catchup-source="http://rrs03.hw.gmcc.net:8088/TVOD/651/224/3221226727/1.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-17农业农村
 http://192.168.2.1:6777/udp/239.10.0.244:1025
 #EXTINF:-1 tvg-name="兵器科技" group-title="央视",CCTV兵器科技
